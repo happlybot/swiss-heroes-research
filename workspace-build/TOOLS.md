@@ -20,6 +20,9 @@ When switching to Claude Opus via `session_status`:
 - Deployment and rollback checklist details
 - Test commands, environments, and release conventions
 
+## GitHub Organizations
+- Default org: `thehappylab` (when no org specified, assume this)
+
 ## Startup Build Conventions
 
 - Prefer iterative slices over big-bang rewrites.

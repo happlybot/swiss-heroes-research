@@ -7,6 +7,9 @@ Thumbs.db
 *.swo
 *~
 .idea/
+
+node_modules
+
 .vscode/
 
 # Logs

@@ -85,6 +85,12 @@
           "groupPolicy": "open",
           "token": "${DISCORD_OPERATION_BOT_TOKEN}"
         }
+      },
+      "guilds": {
+        "1472717066539761714": {
+          "requireMention": false,
+          "users": ["859865268678557706"]
+        }
       }
     }
   },
